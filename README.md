@@ -1,4 +1,4 @@
-# Data-Visualization
+# Data-Visualization of ford used car.
 1. Here I created a Pie Chart and a barplot for a categorical variable. Then compared which plot is better and why.
 2. I created Two scatterplots with numeric columns.
 3. I created Two regression plots with numeric columns.
